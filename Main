@@ -1,0 +1,22 @@
+# The differences betwen the two versions of Python
+
+# 1. Print Function
+
+# In Python 2: 
+print "hello world" 
+
+# In python 3:
+print("hello world")
+
+
+
+
+
+# 2. raw_input Function 
+
+# In Python 2:
+raw_input("Hi! There!")
+
+# In Python 3:
+input("Hi! There!") 
+
